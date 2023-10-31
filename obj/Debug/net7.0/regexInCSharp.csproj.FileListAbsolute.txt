@@ -1,0 +1,14 @@
+C:\Users\guilherme.rebello\gitHubCodes\regexInCSharp\bin\Debug\net7.0\regexInCSharp.exe
+C:\Users\guilherme.rebello\gitHubCodes\regexInCSharp\bin\Debug\net7.0\regexInCSharp.deps.json
+C:\Users\guilherme.rebello\gitHubCodes\regexInCSharp\bin\Debug\net7.0\regexInCSharp.runtimeconfig.json
+C:\Users\guilherme.rebello\gitHubCodes\regexInCSharp\bin\Debug\net7.0\regexInCSharp.dll
+C:\Users\guilherme.rebello\gitHubCodes\regexInCSharp\bin\Debug\net7.0\regexInCSharp.pdb
+C:\Users\guilherme.rebello\gitHubCodes\regexInCSharp\obj\Debug\net7.0\regexInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.rebello\gitHubCodes\regexInCSharp\obj\Debug\net7.0\regexInCSharp.AssemblyInfoInputs.cache
+C:\Users\guilherme.rebello\gitHubCodes\regexInCSharp\obj\Debug\net7.0\regexInCSharp.AssemblyInfo.cs
+C:\Users\guilherme.rebello\gitHubCodes\regexInCSharp\obj\Debug\net7.0\regexInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.rebello\gitHubCodes\regexInCSharp\obj\Debug\net7.0\regexInCSharp.dll
+C:\Users\guilherme.rebello\gitHubCodes\regexInCSharp\obj\Debug\net7.0\refint\regexInCSharp.dll
+C:\Users\guilherme.rebello\gitHubCodes\regexInCSharp\obj\Debug\net7.0\regexInCSharp.pdb
+C:\Users\guilherme.rebello\gitHubCodes\regexInCSharp\obj\Debug\net7.0\regexInCSharp.genruntimeconfig.cache
+C:\Users\guilherme.rebello\gitHubCodes\regexInCSharp\obj\Debug\net7.0\ref\regexInCSharp.dll
